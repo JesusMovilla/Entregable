@@ -30,9 +30,13 @@ section{
 }
 
 .paisesBody section{
-    width: 46%;
+    width: 60%;
     margin: auto;
     margin-top: 2px;
+}
+
+.paisesBody .tablaInfo{
+    margin: auto;
 }
 
 h1{
@@ -108,7 +112,7 @@ progress{
 }
 
 #portada{
-    margin-left: 100%;
+    margin-left: 50%;
 }
 
 #botonesDiv{
